@@ -1,0 +1,23 @@
+
+SCRIPT:TimerName1
+"Top: " 
+END
+SCRIPT:TimerName4
+"Left: " 
+END
+SCRIPT:TimerName3
+"Bottom: " 
+END
+SCRIPT:TimerName2
+"Right: " 
+END
+
+
+
+CONTROLBAR:CasinoLabel
+"Casino"
+end
+CONTROLBAR:CasinoInfo
+"Summon random reinforcements"
+end
+
